@@ -47,4 +47,5 @@ end
 last_element_with_array_methods([2,3,4])
 
 def length_of_array(array)
+  array.length
 end
