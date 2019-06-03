@@ -13,4 +13,4 @@ def array_with_two_elements(arg1,arg2)
 
 end
 
-array_with_two_elements(1,2)
+array_with_two_elements
