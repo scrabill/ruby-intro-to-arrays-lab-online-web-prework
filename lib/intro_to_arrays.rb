@@ -10,6 +10,10 @@ def array_with_two_elements(arg1,arg2)
   my_two_array = Array.new
   my_two_array << arg1, arg2
 
+  
+
+  each { |item| block } → ary
+
 end
 
 array_with_two_elements(1,2)
