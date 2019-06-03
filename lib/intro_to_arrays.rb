@@ -17,7 +17,7 @@ array_with_two_elements
 
 
 def first_element(array)
-  return array[0]
+  array[0]
 end
 
 first_element([2,3,4])
