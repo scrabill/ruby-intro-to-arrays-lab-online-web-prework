@@ -14,3 +14,7 @@ def array_with_two_elements
 end
 
 array_with_two_elements
+
+
+def first_element
+end
