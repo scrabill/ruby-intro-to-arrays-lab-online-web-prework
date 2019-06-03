@@ -7,6 +7,7 @@ end
 instantiate_new_array
 
 def array_with_two_elements(arg1,arg2)
-  my_two_array
+  my_two_array = Array.new
+  my_two_array << arg1, arg2
 
 end
