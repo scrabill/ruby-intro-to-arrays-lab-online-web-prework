@@ -33,3 +33,6 @@ def last_element(array)
 end
 
 last_element([2,3,4])
+
+def first_element_with_array_methods(array)
+end
