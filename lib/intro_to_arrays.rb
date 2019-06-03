@@ -6,7 +6,7 @@ end
 
 instantiate_new_array
 
-def array_with_two_elements(arg1,arg2)
+def array_with_two_elements
   my_two_array = Array.new
 
   my_two_array.push(1,2)
