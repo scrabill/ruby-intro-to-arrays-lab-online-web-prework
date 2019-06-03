@@ -29,7 +29,7 @@ end
 third_element([2,3,4])
 
 def last_element(array)
-  array[2]
+  array[-1]
 end
 
 last_element([2,3,4])
