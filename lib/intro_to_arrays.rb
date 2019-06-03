@@ -25,3 +25,5 @@ first_element([2,3,4])
 def third_element(array)
   array[2]
 end
+
+third_element([2,3,4])
