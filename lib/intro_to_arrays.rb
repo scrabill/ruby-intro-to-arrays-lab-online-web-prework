@@ -8,11 +8,8 @@ instantiate_new_array
 
 def array_with_two_elements(arg1,arg2)
   my_two_array = Array.new
-  my_two_array << arg1, arg2
 
-  
-
-  each { |item| block } → ary
+  my_two_array.push(arg1,arg2)
 
 end
 
