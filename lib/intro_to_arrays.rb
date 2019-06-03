@@ -43,3 +43,5 @@ first_element_with_array_methods([2,3,4])
 def last_element_with_array_methods(array)
   array.pop
 end
+
+last_element_with_array_methods([2,3,4])
