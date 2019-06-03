@@ -20,4 +20,4 @@ def first_element(array)
   return array[0]
 end
 
-array([2,3,4])
+first_element([2,3,4])
