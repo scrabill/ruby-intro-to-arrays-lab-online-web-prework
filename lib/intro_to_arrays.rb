@@ -11,3 +11,5 @@ def array_with_two_elements(arg1,arg2)
   my_two_array << arg1, arg2
 
 end
+
+array_with_two_elements(1,2)
