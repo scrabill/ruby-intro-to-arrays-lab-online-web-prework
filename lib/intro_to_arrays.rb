@@ -16,5 +16,5 @@ end
 array_with_two_elements
 
 
-def first_element
+def first_element(array)
 end
