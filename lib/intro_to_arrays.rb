@@ -27,3 +27,9 @@ def third_element(array)
 end
 
 third_element([2,3,4])
+
+def last_element(array)
+  array[2]
+end
+
+third_element([2,3,4])
