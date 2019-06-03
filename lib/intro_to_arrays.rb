@@ -21,3 +21,6 @@ def first_element(array)
 end
 
 first_element([2,3,4])
+
+def third_element
+end
